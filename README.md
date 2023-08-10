@@ -38,7 +38,6 @@ EasyExploits.Module api = new EasyExploits.Module();
 You can execute scripts using the following code snippet:
 
 ```csharp
-EasyExploits.Module api = new EasyExploits.Module();
 api.ExecuteScript(richTextBox1.Text);
 ```
 
