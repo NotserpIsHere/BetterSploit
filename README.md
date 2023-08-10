@@ -27,7 +27,7 @@ BetterSploit is a API what allows developers to take advantage of vulnerabilitie
 To integrate BetterSploit into your project, follow these steps:
 
 1. Download the latest version of BetterSploit in releases.
-2. Add the BetterSploit library to references in Visual Studio project.
+2. Add the BetterSploit DLL to references in Visual Studio project.
 3. Add this code over Public Form
 ```csharp
 EasyExploits.Module api = new EasyExploits.Module();
