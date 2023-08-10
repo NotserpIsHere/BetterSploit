@@ -1,7 +1,7 @@
 # BetterSploit
 
 BetterSploit is a fork of EasyExploits. This fork aims to enhance the user experience by eliminating pop-ups and ensuring regular updates to adapt to any changes.
-Also remember EasyExploits is skidded from Oxygen U with no permission, so i reccommend using Oxygen U exploit to support creator of DLL (https://oxygenu.xyz)
+Also remember EasyExploits is skidded from Oxygen U with no permission, so i reccommend using Oxygen U exploit to support creator of DLL (https://oxygenu.xyz)!
 
 ## Table of Contents
 - [Introduction](#introduction)
